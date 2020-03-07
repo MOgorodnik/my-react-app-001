@@ -85,3 +85,5 @@ https://flaviocopes.com/react-how-to-loop/
 https://learn.javascript.ru/class
 
 https://learn.javascript.ru/promise-basics
+
+https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
